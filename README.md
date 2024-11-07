@@ -40,7 +40,7 @@ TextFormatter is fully responsive and works seamlessly on both **desktop** and *
 If you'd like to run TextFormatter locally on your machine:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/TextFormatter.git
+   git clone https://github.com/yourusername/text-board.git
 2. How to start the app
     ```bash
     >>npm install
