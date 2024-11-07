@@ -96,7 +96,7 @@ export default function TextForm({ heading = '{text heading}', mode, showAlert }
           id="myBox"
           value={text}
           onChange={handleOnChange}
-          rows="8"
+          rows="6"
           placeholder="Your text here"
         ></textarea>
       </div>
