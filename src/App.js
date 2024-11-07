@@ -50,7 +50,7 @@ function App() {
             <Route exact path="/about" element={<About />} />
             <Route
               exact
-              path="/text-board"
+              path="/textFormat-Tool"
               element={<TextForm heading="Enter the text to analyze" mode={mode} showAlert={showAlert} />}
             />
           </Routes>
