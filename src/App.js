@@ -47,10 +47,10 @@ function App() {
         <div className="container my-3 position-relative">
           <Alert alert={alert} />
           <Routes>
-            <Route exact path="/about" element={<About />} />
+            <Route exact path="/text-board/about" element={<About />} />
             <Route
               exact
-              path="/textFormat-Tool"
+              path="/text-board"
               element={<TextForm heading="Enter the text to analyze" mode={mode} showAlert={showAlert} />}
             />
           </Routes>

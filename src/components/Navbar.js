@@ -6,9 +6,9 @@ export default function Navbar({ title, about, mode, toggleMode }) {
     <>
       <nav className={`navbar navbar-expand-lg bg-${mode} navbar-${mode}`}>
         <div className="container-fluid">
-          <a className="navbar-brand" href="/textFormat-Tool">
+          <Link className="navbar-brand" to="/text-board">
             {title}
-          </a>
+          </Link>
           <button
             className="navbar-toggler"
             type="button"
@@ -23,12 +23,12 @@ export default function Navbar({ title, about, mode, toggleMode }) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" aria-current="page" to="/textFormat-Tool">
+                <Link className="nav-link active" aria-current="page" to="/text-board">
                   Home
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/about">
+                <Link className="nav-link" to="/text-board/about">
                   {about}
                 </Link>
               </li>
