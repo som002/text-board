@@ -1,8 +1,8 @@
-# 📝 **TextFormatter** 🤖🤖
+# 📝 **Text-board** 🤖🤖
 
 Website : <a target="_blank" href="https://som002.github.io/text-board">Open Website</a>
 
-Welcome to **TextFormatter**, your go-to **text editor** designed to improve your text formatting! Whether you need to manipulate or format text quickly and efficiently, **TextFormatter** has you covered. 🌟
+Welcome to **Text-board**, your go-to **text editor** designed to improve your text formatting! Whether you need to manipulate or format text quickly and efficiently, **Text-board** has you covered. 🌟
 
 ---
 
@@ -32,12 +32,12 @@ Welcome to **TextFormatter**, your go-to **text editor** designed to improve you
 ---
 
 ### 📱 **Mobile-Friendly** 🖥️
-TextFormatter is fully responsive and works seamlessly on both **desktop** and **mobile devices**. No matter where you are, you can access TextFormatter and start formatting your text!
+Text-board is fully responsive and works seamlessly on both **desktop** and **mobile devices**. No matter where you are, you can access Text-board and start formatting your text!
 
 ---
 
 ### 🛠️ **Installation & Setup**
-If you'd like to run TextFormatter locally on your machine:
+If you'd like to run Text-board locally on your machine:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/text-board.git
