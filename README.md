@@ -1,5 +1,7 @@
 # 📝 **TextFormatter** 🤖🤖
 
+Website : <a target="_blank" href="https://som002.github.io/text-board">Open Website</a>
+
 Welcome to **TextFormatter**, your go-to **text editor** designed to improve your text formatting! Whether you need to manipulate or format text quickly and efficiently, **TextFormatter** has you covered. 🌟
 
 ---
